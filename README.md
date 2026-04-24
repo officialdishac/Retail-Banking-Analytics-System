@@ -74,6 +74,12 @@ To extract actionable insights from banking transaction data by analyzing:
 
 ---
 
+## 📷 Dashboard Preview
+
+<img width="821" height="613" alt="dashboard_overview" src="https://github.com/user-attachments/assets/97cc4f0a-93a9-4bcf-9885-927371629337" />
+
+---
+
 ## 🎯 Business Impact  
 - Identifies high-risk fraud categories for improved monitoring  
 - Enables customer value-based targeting strategies  
@@ -97,8 +103,7 @@ To extract actionable insights from banking transaction data by analyzing:
 Retail-Banking-Analytics-System/  
 │  
 ├── SQL_Analysis.sql  
-├── Looker_Dashboard.pdf  
-├── Screenshots/  
+├── Looker_Dashboard.pdf   
 └── README.md  
 
 ---
